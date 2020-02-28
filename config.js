@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Justin Lee',
     photo: '/profile.jpg',
-    bio: '❤️ JavaScript, data viz, functional programming, open source, and climbing.',
+    bio: 'Writing code in the open',
     contacts: {
       email: 'justin0022@protonmail.com',
       facebook: '',
