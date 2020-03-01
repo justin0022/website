@@ -1,20 +1,20 @@
 ---
-title: My life in North Vancouver, BC
+title: Life in North Vancouver, BC
 date: "2020-02-28T21:37:45Z"
 template: "post"
 draft: false
-slug: "north-vancouver-bc"
+slug: "life-in-north-vancouver-bc"
 category: "Life"
 tags:
   - "General"
   - "Life"
-description: "An ode to my city."
+description: "A city in between the ocean and mountains."
 socialImage: "/media/posts/2020-28-02/image_24.jpg"
 ---
 
 ![The Lions Gate Bridge](/media/posts/2020-28-02/image_24.jpg)
 
-North Vancouver is a city
+North Vancouver is a city nestled in between the Pacific ocean and the north shore mountains, at the foot of the vast Coast Mountain range that extends nearly uninterrupted some 1600km to the Yukon. Having lived here for the past 6 years, I
 
 
 
